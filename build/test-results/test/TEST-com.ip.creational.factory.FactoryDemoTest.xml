@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.creational.factory.FactoryDemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-10T19:41:56" hostname="DESKTOP-QA2NH3N" time="0.008">
+  <properties/>
+  <testcase name="factoryDemoTest" classname="com.ip.creational.factory.FactoryDemoTest" time="0.008"/>
+  <system-out><![CDATA[[com.ip.creational.factory.PostPage@1e00beb4, com.ip.creational.factory.AboutPage@629af9cd, com.ip.creational.factory.CommentPage@3cf72988, com.ip.creational.factory.ContactPage@659d7cdf]
+[com.ip.creational.factory.PostPage@1e00beb4, com.ip.creational.factory.AboutPage@629af9cd, com.ip.creational.factory.CommentPage@3cf72988, com.ip.creational.factory.ContactPage@659d7cdf, com.ip.creational.factory.CartPage@7ef38bc6, com.ip.creational.factory.ItemPage@4b124144, com.ip.creational.factory.SearchPage@4e2c8ac7]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

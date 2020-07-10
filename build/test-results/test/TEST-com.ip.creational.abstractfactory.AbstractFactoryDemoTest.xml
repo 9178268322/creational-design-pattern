@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.creational.abstractfactory.AbstractFactoryDemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-10T19:41:55" hostname="DESKTOP-QA2NH3N" time="0.016">
+  <properties/>
+  <testcase name="abstractFactoryTest" classname="com.ip.creational.abstractfactory.AbstractFactoryDemoTest" time="0.016"/>
+  <system-out><![CDATA[class com.ip.creational.abstractfactory.AmexPlatinumCreditCard
+class com.ip.creational.abstractfactory.VisaGoldCreditCard
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

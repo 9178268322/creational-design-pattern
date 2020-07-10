@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.creational.prototype.PrototypeDemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-10T19:41:56" hostname="DESKTOP-QA2NH3N" time="0.024">
+  <properties/>
+  <testcase name="prototypeTest" classname="com.ip.creational.prototype.PrototypeDemoTest" time="0.024"/>
+  <system-out><![CDATA[com.ip.creational.prototype.Movie@676514b4
+2 hours
+Creational Patterns in Java
+null
+com.ip.creational.prototype.Movie@3da4edf
+2 hours
+Gang of Four
+null
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

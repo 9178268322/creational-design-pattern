@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.creational.singleton.DbSingletonDemo1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-10T19:41:55" hostname="DESKTOP-QA2NH3N" time="0.0">
+  <properties/>
+  <testcase name="dbSingletonDemo1Test" classname="com.ip.creational.singleton.DbSingletonDemo1Test" time="0.0"/>
+  <system-out><![CDATA[com.ip.creational.singleton.DbSingleton1@3ab9dd84
+com.ip.creational.singleton.DbSingleton1@3ab9dd84
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
